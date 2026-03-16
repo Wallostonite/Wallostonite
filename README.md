@@ -19,7 +19,7 @@ I'm a geoscientist turned ML/AI engineer, passionate about applying machine lear
 
 📫 **How to reach me:**  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: your.email@example.com  
+- Email: abiodun.ayobalies@gmail.com  
 - Personal website/portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ⚡ **Fun fact:** I once [something interesting from your field] – and now I use code to understand the Earth even better!
