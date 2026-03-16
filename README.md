@@ -2,7 +2,7 @@
 
 I'm a geoscientist turned ML/AI engineer, passionate about applying machine learning to solve pressing environmental and geological challenges. With a background in Geologic systems, I bring deep domain knowledge and a data‑driven mindset to the intersection of Earth science and artificial intelligence.
 
-🌍 **From field observations to data insights** – I've spent over 10 analyzing complex Earth systems, and now I'm building models that predict, classify, and uncover patterns in geospatial and environmental data.
+🌍 **From field observations to data insights** – I've spent over 10 years analyzing complex Earth systems, and now I'm building models that predict, classify, and uncover patterns in geospatial and environmental data.
 
 🔭 **Currently working on:**  
 - Building end‑to‑end ML projects that combine satellite imagery, sensor data, and public datasets.  
