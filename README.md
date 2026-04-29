@@ -1,6 +1,6 @@
 # Hi there, I'm Emmanuel 👋
 
-I'm a geoscientist turned ML/AI engineer, passionate about applying machine learning to solve pressing environmental and geological challenges. With a background in Geologic systems, I bring deep domain knowledge and a data‑driven mindset to the intersection of Earth science and artificial intelligence.
+I'm a geoscientist with strong interest in ML/AI engineer, passionate about applying machine learning to solve pressing environmental and geological challenges. With a background in Geologic systems, I bring deep domain knowledge and a data‑driven mindset to the intersection of Earth science and artificial intelligence.
 
 🌍 **From field observations to data insights** – I've spent over 10 years analyzing complex Earth systems, and now I'm building models that predict, classify, and uncover patterns in geospatial and environmental data.
 
